@@ -1,2 +1,2 @@
 # Next-Shop-shoes
-Full Stack Next Shop with cms
+Full Stack Next Shop with CMS
